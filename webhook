@@ -1,2 +1,2 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/webhook:v0.13.1
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/webhook:v0.13.0
 LABEL maintainer="workoss"
