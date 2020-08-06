@@ -1,2 +1,2 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/imagedigestexporter:v0.13.2@sha256:9194cb648591d50de8904d998a5ba07aec981569040ecb1997f6c4935e7a8d8d
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/imagedigestexporter:v0.15.0@sha256:9318290f8569c061f87c6f521b4722a57247c7d6cf7498759a5ee90ee407d916
 LABEL maintainer="workoss"

@@ -1,0 +1,2 @@
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/nop:v0.15.0@sha256:4dcdb0d934243bb3d134fc1029a93b90f18287b2b4bcc68c09d64f12632d88a9
+LABEL maintainer="workoss"

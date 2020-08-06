@@ -1,2 +1,2 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/entrypoint:v0.13.2@sha256:162e21cee52cbbca9b17d48a62bcdca709b0e5070a57ff7ce578d9f2694e7ef5
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/entrypoint:v0.15.0@sha256:93a14db2030c7068f27417fe67bd73d5365e3809c99b7153025f8522c7030d4f
 LABEL maintainer="workoss"

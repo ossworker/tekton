@@ -1,2 +1,2 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/controller:v0.13.2
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/controller:v0.15.0@sha256:61c50c67b1d8a57c9beea4ac72cb31c4301c68466e9f06761d62c0adb523966e
 LABEL maintainer="workoss"

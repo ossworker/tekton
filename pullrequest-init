@@ -1,2 +1,2 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/pullrequest-init:v0.13.2@sha256:58a6c4933cda2dc7150597a75f43806bce73cbf532de0356a50ae76f56c82a92
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/pullrequest-init:v0.15.0@sha256:b9aefaf3ce91870fd89aa73d346d764c897e1762f6a43c4ef7dbd12afdadb6c0
 LABEL maintainer="workoss"

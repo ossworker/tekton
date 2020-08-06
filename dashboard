@@ -1,2 +1,2 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/dashboard/cmd/dashboard
+FROM gcr.io/tekton-releases/github.com/tektoncd/dashboard/cmd/dashboard@sha256:081fd583e717d6ed68b22123c4f21abdf85ed41702408bbbebcbc30c75995684
 LABEL maintainer="workoss"
