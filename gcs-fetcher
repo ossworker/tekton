@@ -1,2 +1,2 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/vendor/github.com/googlecloudplatform/cloud-builders/gcs-fetcher/cmd/gcs-fetcher:v0.15.0@sha256:cbd7a20fd9fe63599bb7066ad0a9aa4466560485c20987dad2a09b39f36b212b
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/vendor/github.com/googlecloudplatform/cloud-builders/gcs-fetcher/cmd/gcs-fetcher:v0.18.1@sha256:1e2ee17438eed7b20a89871bf7c53256ed904fce1c197807e6902aa8b419d5d5
 LABEL maintainer="workoss"
